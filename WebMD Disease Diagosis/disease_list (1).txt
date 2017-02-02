@@ -1,0 +1,6 @@
+shingles,m/f,skin blisters,headache,pain or discomfort,fever,skin rash,skin bumps
+tuberculosis,m/f,decreased appetite,chills,enlarged or swollen glands,pain or discomfort,cough,fatigue
+constipation,m/f,decreased appetite,swelling,constipation,pain or discomfort,bad breath,headache
+depression,f,decreased appetite,fatigue,depressed mood,constipation,anxiety,excessive crying
+hyperthyroidism,m,decreased appetite,difficulty sleeping,anxiety,diarrhea
+

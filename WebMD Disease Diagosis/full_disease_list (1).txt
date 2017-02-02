@@ -1,0 +1,92 @@
+shingles,m/f,skin blisters,headache,pain or discomfort,fever,rash,skinbumps
+tuberculosis,m/f,decreased appetite,chills,enlarged or swollenglands,pain or discomfort,cough,fatigue
+constipation,m/f,decreased appetite,swelling,constipation,pain or discomfort,badbreath,headache
+depression,m/f,decreased appetite,fatigue,depressed mood,constipation,anxiety,excessive crying
+hyperthyroidism,m/f,decreased appetite,difficulty sleeping,anxiety,diarrhea
+west nile virus,m/f,fever,headache,body aches,fatigue,back pain,rash,swollen lymph glands,eye pain
+whiplash,m/f,neck pain,neck stiffness,pain with neck movement,headaches,tender shoulder,dizziness	
+whooping cough,m/f,runny nose,nasal congestion,red eyes,fever,cough	
+yeast infection,f,itching and irritation in the vagina,a burning sensation,vaginal pain and soreness,vaginal discharge
+trachoma,m/f,mild itching and irritation of the eyes and eyelids,discharge from the eyes	
+tourette syndrome,m/f,simple repetitive tics or spasms,muscle spasms,outburst
+toxoplasmosis,m/f,body aches,swollen lymphnodes,headache,fever,fatigue	
+testicular torsion,m,sudden or severe painin the scrotum,swelling of the scrotum,abdominal pain,nausea and vomiting
+testicular cancer,m,enlarged testicle,lump in testicle,heavy scrotum,dull ache in the abdomen or groin,pain or discomfort in a testicle or the scrotum,back pain
+tonsillitis,m/f,red swollen tonsils,white or yellow coating on the tonsils,sore throat,difficult or painful swallowing,fever,enlarged tender glands,bad breath
+tetanus,m/f,spasms and stiffness in your jawmuscles,stiffness of your neck muscles,	difficulty swallowing,painful body spasms
+tension headache,m/f,dull aching head pain,sensation of tightness or pressure across your forehead or on the sides and back of your head,tenderness on your scalp neck and shoulder muscles
+hay fever,m/f,fatigue,runny nose,eye irritation,swelling,itching or burning,cough
+dehydration,m/f,fatigue,constipation,confusion,decreased urination,dizziness,dry mouth
+heat exhaustion,m/f,fatigue,pale skin,headache,dizziness,nausea,vomiting,feeling faint
+hypotension,m/f,fatigue,feeling faint,fainting,shortness of breath,blurred vision,light headed
+restless leg syndrome,m/f,fatigue,difficulty sleeping,muscle twitching,muscle twitch,difficulty staying asleep,pain or discomfort,muscle cramps,muscle cramp,difficulty falling asleep
+sinus headache,m/f,fatigue,cough,swelling,bad breath,pain and discomfort,decreased smell
+hematoma,m/f,bruising or discoloration,tenderness to touch
+heartburn,m/f,burning stomach pain or discomfort,throat pain,abdomen pain or discomfort
+tendonitis,m/f,pain at tendon,loss of mobility,reduced mobility,frozen shoulder
+allergies,m/f,nasal congestion,enlarged or swollen glands,red eyes,sneezing,tender glands,wheezing,cough,runny nose
+laryngitis,m/f,hoarseness,weak voice,voice loss,tickling sensation in throat,sore throat,dry throat,dry cough
+asthma,m/f,shortness of breath,chest tightness or pain,trouble sleeping caused by shortness of breath,coughing or wheezing,a whistling or wheezing sound when exhaling,worsening cough or wheezing attacks	
+crohn's disease,m/f,diarrhea,intestinal cramping,fever,fatigue,abdominal pain and cramping,nausea and vomiting,bloody stool,mouth sores,reduced appetite and weightloss
+common cold,m/f,runny or stuffy nose,sore throat,cough,congestion,body aches,headache,sneezing,fever
+injury,m/f,bruise,bump,lump,discolored skin,tenderness
+delirium,m/f,loss of focus,wandering attention,getting stuck on an idea rather than responding to questions or conversation,being easily distracted by unimportant things
+dementia,m/f,memory loss,difficulty communicating or finding words,difficulty with complex tasks,difficulty with planning and organizing,difficulty with coordination and motor functions,problems with disorientation
+coronary artery disease,m/f,tightness in your chest,shortness of breath,heart attack,nausea and back or jaw pain
+celiac disease,m/f,anemia,itchy skin,blistery skinrash,damage to dental enamel,headache,fatigue,joint pain,acid reflux,heartburn
+down syndrome,m/f,flattened facial features,small head,short neck,protruding tongue,upward slanting eyes,short height
+dyslexia,m/f,late talking,difficulty learning,words mixed up
+e.coli,m/f,diarrhea,abdominal cramping,abdominal pain or tenderness,nausea,vomiting
+ear infection,m/f,ear pain when lying down,difficulty sleeping,difficulty hearing or responding to sounds,loss of balance,drainage of fluid from the ear,headache,loss of appetite
+eating disorders,m/f,skipping meals,excessive focus on healthy eating,withdrawing from normal social activities,frequent checking in the mirror,excessive exercise,depression,eating in secret
+ebola,m/f,fever,headache,joint and muscle aches,chills,weakness
+erectile dysfunction,m,trouble getting an erection,trouble keeping an erection,reduced sexual desire	
+food allergy,m/f,tingling or itching in the mouth,hives,itching,swelling of the lips face or tongue,wheezing nasal congestion,trouble breathing,abdominal pain,diarrhea,nausea,vomiting,dizziness,light headedness,fainting
+food poisoning,m/f,nausea,vomiting,watery diarrhea,abdominal pain and cramps,fever
+genital warts,m/f,small lumps around the genitals,several warts close together that take on a cauliflower shape,itching or discomfort in your genital area,bleeding with intercourse
+goiter,m/f,swelling at the base of your neck,a tight feeling in your throat,coughing,hoarseness,difficulty swallowing,difficulty breathing
+gout,m/f,intense joint pain,lingering discomfort,inflammation and redness,swollen joints,	limited range of motion,decreased joint mobility
+hangover,m/f,fatigue,weakness,thirst,headache,muscle ache,nausea,vomiting,increased sensitivity to light and sound,dizziness,shakiness,decreased ability to concentrate,mood disturbances
+heart attack,m/f,chest pressure,chest tightness,chest pain,aching sensation in your chest,nausea,indigestion,heartburn,abdominal pain,shortness of breath,cold sweat,fatigue,lightheadedness,sudden dizziness
+heat stroke,m/f,high body temperature,altered mental state or behavior,confusion,agitation,slurred speech,irritability,delirium,seizures,nausea,vomiting,flushed skin,rapid breathing,racing heart rate,headache	
+hepatitis a,m/f,fatigue,nausea,vomiting,abdominal pain or discomfort especially on your right side beneath your lower ribs,clay-colored bowel movement,loss of appetite,fever,dark urine,joint pain,yellowing of the skin and eyes(jaundice)	
+herniated disk,m/f,arm or leg pain,intense pain in your buttocks thigh or calf,intense pain in the shoulder and arm,numbness or tingling,weakened muscles	
+hot flashes,f,sudden feeling of warmth spreading through your upper body and face,a flushed appearance with red blotchy skin,rapid heart beat,perspiration
+irritable bowel syndrome,m/f,abdominal pain or cramping,bloated feeling,gas,diarrhea,constipation,mucus in the stool
+indigestion,m/f,early fullness during a meal,uncomfortable fullness after a meal,fullness lasts longer than it should,discomfort in the upper abdomen,burning in the upper abdomen,bloating in the upper abdomen,uncomfortable sensation of tightness,nausea
+lactose intolerance,m/f,diarrhea,nausea,vomiting,abdominal cramps,bloating,gas	
+latex allergy,m/f,itching,red skin,hives,rash	
+lung cancer,m/f,new cough that doesn't go away,changes in a chronic cough,coughing up blood,shortness of breath,chest pain,wheezing,hoarseness,losing weight without trying,bone pain,headache	
+lupus,m/f,fatigue,fever,joint pain,stiffness,swelling,photosensitivity,shortness of breath,chest pain,dry eyes,headache,confusion and memory loss	
+leukemia,m/f,fever,chills,fatigue,weakness,frequent or severe infections,losing weight without trying,swollen lymph nodes,enlarged liver or spleen,easy bleeding or bruising,recurrent nosebleeds,tiny red spots in your skin,excessive sweating,bone pain or tenderness	
+menstrual cramps,f,cramping pain in your lower abdomen,constant ache,pain that radiates to your lower back and thighs
+lymphedema,m/f,swelling of part or all of your arm leg fingers or toes,a feeling of heaviness or tightness,restricted range of motion,aching or discomfort recurring infections,hardening and thickening of thes kin
+lyme disease,m/f,rash,small red bump appearing at the site of the tick bite,flu-like symptoms,fever,chills,fatigue,bodyaches,headache
+measles,m/f,fever,dry cough,runny nose,sore throat,inflamed eyes,tiny white spots with bluish-white centers on a red background found inside the mouth on the inner lining of the cheek
+pancreatic cancer,m/f,upper abdominal pain,yellowing of your skin and the whites of your eyes(jaundice),loss of appetite,weight loss,depression,blood clots
+peanut allergy,m/f,skin reactions,redness or swelling,itching or tingling in or around the mouth and throat,digestive problems,diarrhea,stomach cramps,nausea,vomiting,tightening of the throat,shortness of breath or wheezing,runny nose
+polio,m/f,fever,sore throat,headache,vomiting,fatigue,back pain or stiffness,neck pain or stiffness,muscle weakness or tenderness,meningitis	
+prediabetes,m/f,increased thirst,frequent urination,fatigue,blurred vision
+rabies,m/f,fever,headache,nausea,vomiting,agitation,anxiety,confusion,hyperactivity,difficulty swallowing,excessive salivation,fear of water,difficulty in swallowing,hallucinations,insomnia,partial paralysis
+shin splints,m/f,tenderness,soreness or pain along the inner part of your lower leg,mild swelling in your lower leg
+familial mediterranean fever,m/f,fever,abdominal pain,chest pain,swollen joints,constipation, diarrhea,a red rash on your legs,muscle aches
+acoustic neuroma,m/f,hearing loss,tinnitus,unsteadiness,loss of balance,dizziness,vertigo,facial numbness
+amenorrhea,m/f,milky nipple discharge,hair loss,headache,vision changes,excess facial hair,pelvic pain,acne
+alcohol poisoning,m/f,confusion,vomiting,seizures,slow breathing,irregular breathing,blue-tinged skin,low body temperature,passing out
+anemia,m/f,fatigue,weakness,pale skin,a fast or irregular heartbeat,shortness of breath,chest pain,dizziness,cognitive problems,cold hands and feet,headache
+bronchitis,m/f,cough,production of mucus,white yellowish-gray mucus,fever,chills,chest discomfort	
+brugada syndrome,m/f,fainting,irregular heartbeats or palpitations,extremely fast and chaotic heartbeat
+cellulitis,m/f,red area of skin that tends to expand,swelling,tenderness,pain,warmth,fever,red spots,blisters,skin dimpling
+chicken pox,m/f,fever,loss of appetite,headache,tiredness and a general feeling of being unwell
+concussion,m/f,headache or a feeling of pressure in the head,temporary loss of consciousness,confusion,amnesia,seeing stars,ringing in the ears,nausea,vomiting,slurred speech,delayed response to questions
+diabetes,m/f,increased thirst,frequent urination,extreme hunger,unexplained weightloss,fatigue,irritability,blurred vision,slow-healing sores,frequent infections
+dust mite allergy,m/f,sneezing,runny nose,itchy red or watery eyes,nasal congestion,itchy nose,postnasal drip,cough,facial pressure,swollen blue-colored skin
+mumps,m/f,swollen painful salivary glands,fever,headache,weakness,fatigue,loss of appetite,pain while chewing or swallowing	
+narcolepsy,m/f,excessive daytime sleepiness,decreased alertness,sudden loss of muscletone,sleep paralysis,hallucinations
+postpartum depression,f,mood swings,anxiety,sadness,irritability,crying,decreased concentration,trouble sleeping
+rickets,m/f,delayed growth,pain in the spine pelvis and legs,muscle weakness
+salmonella,m/f,nausea,vomiting,abdominal cramps,diarrhea,fever,chills,headache,blood in the stool
+smallpox,m/f,fever,overall discomfort,headache,fatigue,severe back pain,vomiting
+syringomyelia,m/f,muscle weakness and wasting,loss of reflexes,loss of sensitivity to pain and temperature	
+thrombophlebitis,m/f,warmth,tenderness and pain in the affected area,redness and swelling
+zollinger-ellison syndrome,m/f,abdominal pain,diarrhea,burning aching gnawing or discomfort in your upper abdomen,acid reflux and heart burn,nausea,vomiting,weakness,bleeding in your digestive tract,unintended weightloss,decreased appetite,anemia
